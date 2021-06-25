@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sainath998
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning Data structures.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data structures,interested in solving competitive coding problems in C++.
+- 💞️ I'm good at C++, Java, front end and backend with django
 - 📫 you can contact me using this email-id sainathreddy414r@gmail.com
 
 <!---
