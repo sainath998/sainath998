@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sainath998
+- 👋 Hi, I’m Sainath Reddy
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning Data structures,interested in solving competitive coding problems in C++.
 - 💞️ I'm good at C++, Java, front end and backend with django
