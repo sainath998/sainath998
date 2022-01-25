@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sainath Reddy
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning Data structures,interested in solving competitive coding problems in C++.
-- 💞️ I'm good at C++, Java, front end and backend with django
+- 💞️ I'm good at C++,and beginner at react js and spring boot
 - 📫 you can contact me using this email-id sainathreddy863@gmail.com
 
 <!---
